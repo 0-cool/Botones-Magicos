@@ -1,0 +1,18 @@
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\ResponseReader\ResponseReader\bin\Debug\ResponseReader.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\ResponseReader\ResponseReader\obj\Debug\ResponseReader.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\ResponseReader\ResponseReader\obj\Debug\ResponseReader.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\ResponseReader\ResponseReader\obj\Debug\ResponseReader.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\ResponseReader\ResponseReader\obj\Debug\ResponseReader.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\ResponseReader\ResponseReader\bin\Debug\ResponseReader.exe
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\ResponseReader\ResponseReader\bin\Debug\ResponseReader.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\ResponseReader\ResponseReader\obj\Debug\ResponseReader.exe
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\ResponseReader\ResponseReader\obj\Debug\ResponseReader.pdb
+C:\Users\USUARIO\Dropbox\Projects\C#\ResponseReader\ResponseReader\bin\Debug\ResponseReader.exe.config
+C:\Users\USUARIO\Dropbox\Projects\C#\ResponseReader\ResponseReader\obj\Debug\ResponseReader.exe
+C:\Users\USUARIO\Dropbox\Projects\C#\ResponseReader\ResponseReader\obj\Debug\ResponseReader.pdb
+C:\Users\USUARIO\Dropbox\Projects\C#\ResponseReader\ResponseReader\bin\Debug\ResponseReader.exe
+C:\Users\USUARIO\Dropbox\Projects\C#\ResponseReader\ResponseReader\bin\Debug\ResponseReader.pdb
+C:\Users\USUARIO\Dropbox\Projects\C#\ResponseReader\ResponseReader\obj\Debug\ResponseReader.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Dropbox\Projects\C#\ResponseReader\ResponseReader\obj\Debug\ResponseReader.Form1.resources
+C:\Users\USUARIO\Dropbox\Projects\C#\ResponseReader\ResponseReader\obj\Debug\ResponseReader.Properties.Resources.resources
+C:\Users\USUARIO\Dropbox\Projects\C#\ResponseReader\ResponseReader\obj\Debug\ResponseReader.csproj.GenerateResource.Cache
